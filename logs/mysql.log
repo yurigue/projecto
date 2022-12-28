@@ -1,0 +1,7 @@
+- Wampserver trace report -
+File created by Wampserver install
+2021-06-17T12:19:59.983206Z 0 [Warning] InnoDB: Resizing redo log from 2*3072 to 2*16384 pages, LSN=2719903
+2021-06-17T12:20:00.088262Z 0 [Warning] InnoDB: Starting to delete and rewrite log files.
+ 100 200
+ 100 200
+2021-06-17T12:20:00.972050Z 0 [Warning] InnoDB: New log files created, LSN=2719903

@@ -1,0 +1,4 @@
+- Wampserver trace report -
+File created by Wampserver install
+[17-Jun-2021 12:19:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/wamp64/projecto/bin/php/php7.3.21/ext/curl (Imposs�vel localizar o m�dulo especificado.), C:/wamp64/projecto/bin/php/php7.3.21/ext/php_curl.dll (Imposs�vel localizar o m�dulo especificado.)) in Unknown on line 0
+[17-Jun-2021 12:19:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/wamp64/projecto/bin/php/php7.3.21/ext/curl (Imposs�vel localizar o m�dulo especificado.), C:/wamp64/projecto/bin/php/php7.3.21/ext/php_curl.dll (Imposs�vel localizar o m�dulo especificado.)) in Unknown on line 0

@@ -1,0 +1,7 @@
+2021-06-17T12:18:39.234637Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2021-06-17T12:18:39.424863Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2021-06-17T12:18:39.456582Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2021-06-17T12:18:39.530040Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 25f2b5da-cf66-11eb-b67c-089798ad68c4.
+2021-06-17T12:18:39.534351Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2021-06-17T12:18:40.754892Z 0 [Warning] CA certificate ca.pem is self signed.
+2021-06-17T12:18:41.914093Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
